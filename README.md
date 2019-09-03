@@ -3,4 +3,5 @@
 > A curated list of Front-End Tools.
 
 - Awesome Front-End Tools
-  - [Editors](topics/Editors.md)
+  - [Editors](topics/Code-Editors.md)
+  <!-- - [Editors](topics/.md) -->
