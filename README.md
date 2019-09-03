@@ -8,4 +8,4 @@
 
 
 
-Designed with ♥ by [Daniel Castro](https://twitter.com/dancasttro). Licensed under the [MIT License]().
+Designed with ♥ by [Daniel Castro](https://twitter.com/dancasttro). Licensed under the [MIT License](https://github.com/dancasttro/awesome-frontend-tools/blob/master/license).
