@@ -10,8 +10,12 @@
 
 
 
-Designed with ![Meeeettttaaaaalllll][metal] by [Daniel Castro](https://twitter.com/dancasttro). Licensed under the [MIT License](https://github.com/dancasttro/awesome-frontend-tools/blob/master/license).
+Designed with ![Meeeetttaaaalllll](./hand.svg) by [Daniel Castro](https://twitter.com/dancasttro). Licensed under the [MIT License](https://github.com/dancasttro/awesome-frontend-tools/blob/master/license).
 
 <!-- Designed with ♥ by [Daniel Castro](https://twitter.com/dancasttro). Licensed under the [MIT License](https://github.com/dancasttro/awesome-frontend-tools/blob/master/license). -->
 
-[metal]: https://github.com/dancasttro/awesome-frontend-tools/blob/master/hand.svg "Metal logo"
+<!-- [metal]: https://github.com/dancasttro/awesome-frontend-tools/blob/master/hand.svg "Metal logo" -->
+
+
+
+<!-- <img src="./hand.svg"> -->
